@@ -6,3 +6,4 @@ Manage soketi websocket server and apps with ease.
 // clarify the control flow
 // keep defaults in sync with the manifest
 // clarify the control flow
+// keep defaults in sync with the manifest
