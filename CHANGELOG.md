@@ -18,3 +18,4 @@
 - fix: add a note about the defaults
 - fix: clarify the setup steps
 - chore: add a note about the defaults
+- docs: link the usage section
